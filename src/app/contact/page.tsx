@@ -4,7 +4,7 @@ import React from 'react'
 
 function page() {
     return (
-        <div className='relative w-full h-screen overflow-hidden'>
+        <div className='relative w-full h-screen overflow-hidden min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]'>
             <div className='absolute inset-0'>
                 <Meteors number={100} />
             </div>
