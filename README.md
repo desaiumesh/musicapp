@@ -1,3 +1,17 @@
+
+
+![1](https://github.com/desaiumesh/musicapp/assets/61972013/9f1e9c34-3475-45b1-a1be-c50394bf42cb)
+
+
+![2](https://github.com/desaiumesh/musicapp/assets/61972013/7f002280-9d40-466d-8a5c-acf6fb281f52)
+
+
+![3](https://github.com/desaiumesh/musicapp/assets/61972013/a58e14e1-d2a9-44f3-9b95-5115e3488923)
+
+
+![4](https://github.com/desaiumesh/musicapp/assets/61972013/f1c643f7-14e4-4c41-ae10-8b5974a9d9a8)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
