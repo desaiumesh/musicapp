@@ -1,5 +1,17 @@
 
 
+![CPT2406061851-2019x992](https://github.com/desaiumesh/musicapp/assets/61972013/d2339b52-1a0b-47e0-a351-ca1b3c171085)
+
+
+![CPT2406061853-1987x1100](https://github.com/desaiumesh/musicapp/assets/61972013/3c4f0b08-e7b8-41ff-a642-219b827440fe)
+
+
+![CPT2406061904-2075x849](https://github.com/desaiumesh/musicapp/assets/61972013/85f96d3c-5ea3-4ce2-85b6-7ed4a193b39c)
+
+
+![CPT2406061808-1483x914 (1)](https://github.com/desaiumesh/musicapp/assets/61972013/0ab651b5-b42d-4a83-83a9-2dc0408f3a74)
+
+
 ![1](https://github.com/desaiumesh/musicapp/assets/61972013/9f1e9c34-3475-45b1-a1be-c50394bf42cb)
 
 
