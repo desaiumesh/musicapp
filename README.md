@@ -1,3 +1,31 @@
+This one is created by following tutorial https://youtu.be/AR6eQCi_Me4?si=3H7dS4ifV02cK91g 
+
+Tech Stack - Next JS, Typescript, Tailwind CSS, Acerternity UI Library
+
+![CPT2406061851-2019x992](https://github.com/desaiumesh/musicapp/assets/61972013/d2339b52-1a0b-47e0-a351-ca1b3c171085)
+
+
+![CPT2406061853-1987x1100](https://github.com/desaiumesh/musicapp/assets/61972013/3c4f0b08-e7b8-41ff-a642-219b827440fe)
+
+
+![CPT2406061904-2075x849](https://github.com/desaiumesh/musicapp/assets/61972013/85f96d3c-5ea3-4ce2-85b6-7ed4a193b39c)
+
+
+![CPT2406061808-1483x914 (1)](https://github.com/desaiumesh/musicapp/assets/61972013/0ab651b5-b42d-4a83-83a9-2dc0408f3a74)
+
+
+![1](https://github.com/desaiumesh/musicapp/assets/61972013/9f1e9c34-3475-45b1-a1be-c50394bf42cb)
+
+
+![2](https://github.com/desaiumesh/musicapp/assets/61972013/7f002280-9d40-466d-8a5c-acf6fb281f52)
+
+
+![3](https://github.com/desaiumesh/musicapp/assets/61972013/a58e14e1-d2a9-44f3-9b95-5115e3488923)
+
+
+![4](https://github.com/desaiumesh/musicapp/assets/61972013/f1c643f7-14e4-4c41-ae10-8b5974a9d9a8)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -22,10 +50,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Aceternity](https://ui.aceternity.com/) - Aceternity UI Component Library
+- [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS documentation
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
